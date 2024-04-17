@@ -1,0 +1,14 @@
+{
+  "name": "scheldpot",
+  "version": "1.0.0",
+  "description": "Opgekankerd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin van Meeteren",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
